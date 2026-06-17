@@ -8,6 +8,12 @@ A curated list of the best free online calculators for math, finance, health, fi
 - [Date & Time](#date--time)
 
 ##  Finance Calculators
+- [UK Tax Calculator](https://mini-tools.uk/tax) — Estimate UK income tax and take-home pay
+- [UK VAT Calculator](https://mini-tools.uk/vat) - Add or remove UK VAT with standard 20%, reduced 5%, zero-rated and custom VAT rates.
+- [UK Mortgage Calculator](https://mini-tools.uk/mortgage) - Estimate UK mortgage repayments, monthly payments, LTV, total interest and SDLT for England and Northern Ireland.
+- [IR35 Calculator](https://mini-tools.uk/ir35) - Compare inside IR35 umbrella take-home pay with outside IR35 limited company assumptions for UK contractors.
+- [Stamp Duty Calculator](https://mini-tools.uk/stamp-duty) - Estimate SDLT for England and Northern Ireland, including first-time buyer relief, additional property rates and non-resident surcharge.
+- [UK Dividend Tax Calculator](https://mini-tools.uk/dividend) - Estimate UK dividend tax with salary, other income, dividend allowance and dividend tax bands.
 - [Loan Calculator](https://smartcalculatortool.com/loan-calculator/) — Calculate monthly payments and interest
 - [EMI Calculator](https://smartcalculatortool.com/emi-calculator/) — Calculate equated monthly instalments
 - [Mortgage Calculator](https://smartcalculatortool.com/mortgage-calculator/) — Plan home loan repayments
