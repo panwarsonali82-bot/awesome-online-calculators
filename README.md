@@ -21,6 +21,9 @@ A curated list of the best free online calculators for math, finance, health, fi
 - [Percentage Calculator](https://smartcalculatortool.com/percentage-calculator/) — Percentages, increases, decreases
 - [Square Root Calculator](https://smartcalculatortool.com/square-root-calculator/) — Roots and powers
 
+##  Construction & Home Calculators
+- [Concrete Estimator Hub](https://concreteestimatorhub.com/) - Free concrete calculators for slabs, bags, ready-mix versus bags, driveways, footings, and project cost planning
+
 ##  Conversion Tools
 - [Unit Converter](https://smartcalculatortool.com/unit-converter/) — Length, weight, temperature and more
 - [Currency Converter](https://smartcalculatortool.com/currency-converter/) — Live currency rates
