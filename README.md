@@ -12,6 +12,7 @@ A curated list of the best free online calculators for math, finance, health, fi
 - [EMI Calculator](https://smartcalculatortool.com/emi-calculator/) — Calculate equated monthly instalments
 - [Mortgage Calculator](https://smartcalculatortool.com/mortgage-calculator/) — Plan home loan repayments
 - [Investment Calculator](https://smartcalculatortool.com/investment-calculator/) — Calculate investment returns
+- [TidyCalcs](https://tidycalcs.com) — Free calculators for mortgage payments, loans, and debt payoff (snowball vs. avalanche)
 
 ##  Health & Fitness
 - [BMI Calculator](https://smartcalculatortool.com/my-bmi-calculator/) — Calculate Body Mass Index
