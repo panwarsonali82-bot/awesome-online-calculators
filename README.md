@@ -19,6 +19,7 @@ A curated list of the best free online calculators for math, finance, health, fi
 
 ##  Math Calculators
 - [Percentage Calculator](https://smartcalculatortool.com/percentage-calculator/) — Percentages, increases, decreases
+- [KupFollowersow Engagement Rate (Polish)](https://kupfollowersow.pl/tools/engagement-rate) — Calculate likes plus comments as a percentage of followers, reach or views without an account
 - [Square Root Calculator](https://smartcalculatortool.com/square-root-calculator/) — Roots and powers
 
 ##  Conversion Tools
