@@ -18,6 +18,7 @@ A curated list of the best free online calculators for math, finance, health, fi
 - [Calorie Calculator](https://smartcalculatortool.com/calorie-calculator/) — Daily calorie needs
 
 ##  Math Calculators
+- [Calculation Hub Percentage Calculator](https://calculation-hub.com/math/percentage) — Free percentage, part, and total calculations with formula explanations; no login required
 - [Percentage Calculator](https://smartcalculatortool.com/percentage-calculator/) — Percentages, increases, decreases
 - [Square Root Calculator](https://smartcalculatortool.com/square-root-calculator/) — Roots and powers
 
